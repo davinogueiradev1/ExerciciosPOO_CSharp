@@ -12,3 +12,4 @@ C:\Users\41286020867\Documents\Aulas C#\ExerciciosPOO-06-11\ExerciciosPOO\obj\De
 C:\Users\41286020867\Documents\Aulas C#\ExerciciosPOO-06-11\ExerciciosPOO\obj\Debug\net10.0\ExerciciosPOO.pdb
 C:\Users\41286020867\Documents\Aulas C#\ExerciciosPOO-06-11\ExerciciosPOO\obj\Debug\net10.0\ExerciciosPOO.genruntimeconfig.cache
 C:\Users\41286020867\Documents\Aulas C#\ExerciciosPOO-06-11\ExerciciosPOO\obj\Debug\net10.0\ref\ExerciciosPOO.dll
+C:\Users\41286020867\Documents\Aulas C#\ExerciciosPOO-06-11\ExerciciosPOO\obj\Debug\net10.0\ExerciciosPOO.sourcelink.json
